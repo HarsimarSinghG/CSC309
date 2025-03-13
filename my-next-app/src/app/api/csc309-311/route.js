@@ -1,3 +1,5 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+
 export async function GET(req) {
   const utorid = 'harsima1'; // Replace with your actual UTorID
     const htmlResponse = `
